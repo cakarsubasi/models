@@ -1,0 +1,355 @@
+
+item{
+  id: 1
+  name: '16th_flag'
+}
+
+item{
+  id: 2
+  name: '16th_rest'
+}
+
+item{
+  id: 3
+  name: '8th_flag'
+}
+
+item{
+  id: 4
+  name: '8th_rest'
+}
+
+item{
+  id: 5
+  name: 'accent'
+}
+
+item{
+  id: 6
+  name: 'beam'
+}
+
+item{
+  id: 7
+  name: 'c-clef'
+}
+
+item{
+  id: 8
+  name: 'double_sharp'
+}
+
+item{
+  id: 9
+  name: 'duration-dot'
+}
+
+item{
+  id: 10
+  name: 'dynamics_text'
+}
+
+item{
+  id: 11
+  name: 'f-clef'
+}
+
+item{
+  id: 12
+  name: 'flat'
+}
+
+item{
+  id: 13
+  name: 'g-clef'
+}
+
+item{
+  id: 14
+  name: 'grace-notehead-full'
+}
+
+item{
+  id: 15
+  name: 'grace_strikethrough'
+}
+
+item{
+  id: 16
+  name: 'hairpin-cresc.'
+}
+
+item{
+  id: 17
+  name: 'hairpin-decr.'
+}
+
+item{
+  id: 18
+  name: 'half_rest'
+}
+
+item{
+  id: 19
+  name: 'key_signature'
+}
+
+item{
+  id: 20
+  name: 'ledger_line'
+}
+
+item{
+  id: 21
+  name: 'letter_M'
+}
+
+item{
+  id: 22
+  name: 'letter_P'
+}
+
+item{
+  id: 23
+  name: 'letter_a'
+}
+
+item{
+  id: 24
+  name: 'letter_c'
+}
+
+item{
+  id: 25
+  name: 'letter_d'
+}
+
+item{
+  id: 26
+  name: 'letter_e'
+}
+
+item{
+  id: 27
+  name: 'letter_f'
+}
+
+item{
+  id: 28
+  name: 'letter_i'
+}
+
+item{
+  id: 29
+  name: 'letter_l'
+}
+
+item{
+  id: 30
+  name: 'letter_m'
+}
+
+item{
+  id: 31
+  name: 'letter_n'
+}
+
+item{
+  id: 32
+  name: 'letter_o'
+}
+
+item{
+  id: 33
+  name: 'letter_p'
+}
+
+item{
+  id: 34
+  name: 'letter_r'
+}
+
+item{
+  id: 35
+  name: 'letter_s'
+}
+
+item{
+  id: 36
+  name: 'letter_t'
+}
+
+item{
+  id: 37
+  name: 'letter_u'
+}
+
+item{
+  id: 38
+  name: 'measure_separator'
+}
+
+item{
+  id: 39
+  name: 'multi-staff_brace'
+}
+
+item{
+  id: 40
+  name: 'multi-staff_bracket'
+}
+
+item{
+  id: 41
+  name: 'multiple-note_tremolo'
+}
+
+item{
+  id: 42
+  name: 'natural'
+}
+
+item{
+  id: 43
+  name: 'notehead-empty'
+}
+
+item{
+  id: 44
+  name: 'notehead-full'
+}
+
+item{
+  id: 45
+  name: 'numeral_2'
+}
+
+item{
+  id: 46
+  name: 'numeral_3'
+}
+
+item{
+  id: 47
+  name: 'numeral_4'
+}
+
+item{
+  id: 48
+  name: 'numeral_5'
+}
+
+item{
+  id: 49
+  name: 'numeral_6'
+}
+
+item{
+  id: 50
+  name: 'numeral_7'
+}
+
+item{
+  id: 51
+  name: 'numeral_8'
+}
+
+item{
+  id: 52
+  name: 'ornament(s)'
+}
+
+item{
+  id: 53
+  name: 'other-dot'
+}
+
+item{
+  id: 54
+  name: 'other_text'
+}
+
+item{
+  id: 55
+  name: 'quarter_rest'
+}
+
+item{
+  id: 56
+  name: 'repeat'
+}
+
+item{
+  id: 57
+  name: 'repeat-dot'
+}
+
+item{
+  id: 58
+  name: 'sharp'
+}
+
+item{
+  id: 59
+  name: 'slur'
+}
+
+item{
+  id: 60
+  name: 'staccato-dot'
+}
+
+item{
+  id: 61
+  name: 'staff_grouping'
+}
+
+item{
+  id: 62
+  name: 'stem'
+}
+
+item{
+  id: 63
+  name: 'tempo_text'
+}
+
+item{
+  id: 64
+  name: 'tenuto'
+}
+
+item{
+  id: 65
+  name: 'thin_barline'
+}
+
+item{
+  id: 66
+  name: 'tie'
+}
+
+item{
+  id: 67
+  name: 'time_signature'
+}
+
+item{
+  id: 68
+  name: 'trill'
+}
+
+item{
+  id: 69
+  name: 'tuple'
+}
+
+item{
+  id: 70
+  name: 'tuple_bracket/line'
+}
+
+item{
+  id: 71
+  name: 'whole_rest'
+}

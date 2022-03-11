@@ -1,0 +1,550 @@
+item {
+  id: 1
+  name: '16th_flag'
+}
+
+item {
+  id: 2
+  name: '16th_rest'
+}
+
+item {
+  id: 3
+  name: '8th_flag'
+}
+
+item {
+  id: 4
+  name: '8th_rest'
+}
+
+item {
+  id: 5
+  name: 'accent'
+}
+
+item {
+  id: 6
+  name: 'arpeggio_wobble'
+}
+
+item {
+  id: 7
+  name: 'beam'
+}
+
+item {
+  id: 8
+  name: 'breath_mark'
+}
+
+item {
+  id: 9
+  name: 'c-clef'
+}
+
+item {
+  id: 10
+  name: 'curved-line_(tie-or-slur)'
+}
+
+item {
+  id: 11
+  name: 'dotted_horizontal_spanner'
+}
+
+item {
+  id: 12
+  name: 'double_sharp'
+}
+
+item {
+  id: 13
+  name: 'duration-dot'
+}
+
+item {
+  id: 14
+  name: 'dynamics_text'
+}
+
+item {
+  id: 15
+  name: 'f-clef'
+}
+
+item {
+  id: 16
+  name: 'fermata'
+}
+
+item {
+  id: 17
+  name: 'flat'
+}
+
+item {
+  id: 18
+  name: 'g-clef'
+}
+
+item {
+  id: 19
+  name: 'glissando'
+}
+
+item {
+  id: 20
+  name: 'grace-notehead-full'
+}
+
+item {
+  id: 21
+  name: 'grace_strikethrough'
+}
+
+item {
+  id: 22
+  name: 'hairpin-cresc'
+}
+
+item {
+  id: 23
+  name: 'hairpin-decr'
+}
+
+item {
+  id: 24
+  name: 'half_rest'
+}
+
+item {
+  id: 25
+  name: 'horizontal_spanner'
+}
+
+item {
+  id: 26
+  name: 'instrument_specific'
+}
+
+item {
+  id: 27
+  name: 'key_signature'
+}
+
+item {
+  id: 28
+  name: 'ledger_line'
+}
+
+item {
+  id: 29
+  name: 'letter_A'
+}
+
+item {
+  id: 30
+  name: 'letter_C'
+}
+
+item {
+  id: 31
+  name: 'letter_E'
+}
+
+item {
+  id: 32
+  name: 'letter_F'
+}
+
+item {
+  id: 33
+  name: 'letter_L'
+}
+
+item {
+  id: 34
+  name: 'letter_M'
+}
+
+item {
+  id: 35
+  name: 'letter_P'
+}
+
+item {
+  id: 36
+  name: 'letter_R'
+}
+
+item {
+  id: 37
+  name: 'letter_S'
+}
+
+item {
+  id: 38
+  name: 'letter_T'
+}
+
+item {
+  id: 39
+  name: 'letter_V'
+}
+
+item {
+  id: 40
+  name: 'letter_a'
+}
+
+item {
+  id: 41
+  name: 'letter_b'
+}
+
+item {
+  id: 42
+  name: 'letter_c'
+}
+
+item {
+  id: 43
+  name: 'letter_d'
+}
+
+item {
+  id: 44
+  name: 'letter_e'
+}
+
+item {
+  id: 45
+  name: 'letter_f'
+}
+
+item {
+  id: 46
+  name: 'letter_g'
+}
+
+item {
+  id: 47
+  name: 'letter_i'
+}
+
+item {
+  id: 48
+  name: 'letter_j'
+}
+
+item {
+  id: 49
+  name: 'letter_l'
+}
+
+item {
+  id: 50
+  name: 'letter_m'
+}
+
+item {
+  id: 51
+  name: 'letter_n'
+}
+
+item {
+  id: 52
+  name: 'letter_o'
+}
+
+item {
+  id: 53
+  name: 'letter_other'
+}
+
+item {
+  id: 54
+  name: 'letter_p'
+}
+
+item {
+  id: 55
+  name: 'letter_r'
+}
+
+item {
+  id: 56
+  name: 'letter_s'
+}
+
+item {
+  id: 57
+  name: 'letter_t'
+}
+
+item {
+  id: 58
+  name: 'letter_u'
+}
+
+item {
+  id: 59
+  name: 'letter_v'
+}
+
+item {
+  id: 60
+  name: 'letter_x'
+}
+
+item {
+  id: 61
+  name: 'letter_z'
+}
+
+item {
+  id: 62
+  name: 'measure_separator'
+}
+
+item {
+  id: 63
+  name: 'multi-measure_rest'
+}
+
+item {
+  id: 64
+  name: 'multi-staff_brace'
+}
+
+item {
+  id: 65
+  name: 'multi-staff_bracket'
+}
+
+item {
+  id: 66
+  name: 'multiple-note_tremolo'
+}
+
+item {
+  id: 67
+  name: 'natural'
+}
+
+item {
+  id: 68
+  name: 'notehead-empty'
+}
+
+item {
+  id: 69
+  name: 'notehead-full'
+}
+
+item {
+  id: 70
+  name: 'numeral_0'
+}
+
+item {
+  id: 71
+  name: 'numeral_1'
+}
+
+item {
+  id: 72
+  name: 'numeral_2'
+}
+
+item {
+  id: 73
+  name: 'numeral_3'
+}
+
+item {
+  id: 74
+  name: 'numeral_4'
+}
+
+item {
+  id: 75
+  name: 'numeral_5'
+}
+
+item {
+  id: 76
+  name: 'numeral_6'
+}
+
+item {
+  id: 77
+  name: 'numeral_7'
+}
+
+item {
+  id: 78
+  name: 'numeral_8'
+}
+
+item {
+  id: 79
+  name: 'ornament(s)'
+}
+
+item {
+  id: 80
+  name: 'other-clef'
+}
+
+item {
+  id: 81
+  name: 'other-dot'
+}
+
+item {
+  id: 82
+  name: 'other_numeric_sign'
+}
+
+item {
+  id: 83
+  name: 'other_text'
+}
+
+item {
+  id: 84
+  name: 'quarter_rest'
+}
+
+item {
+  id: 85
+  name: 'repeat'
+}
+
+item {
+  id: 86
+  name: 'repeat-dot'
+}
+
+item {
+  id: 87
+  name: 'repeat_measure'
+}
+
+item {
+  id: 88
+  name: 'sharp'
+}
+
+item {
+  id: 89
+  name: 'slur'
+}
+
+item {
+  id: 90
+  name: 'staccato-dot'
+}
+
+item {
+  id: 91
+  name: 'staff'
+}
+
+item {
+  id: 92
+  name: 'staff_grouping'
+}
+
+item {
+  id: 93
+  name: 'staff_line'
+}
+
+item {
+  id: 94
+  name: 'staff_space'
+}
+
+item {
+  id: 95
+  name: 'stem'
+}
+
+item {
+  id: 96
+  name: 'tempo_text'
+}
+
+item {
+  id: 97
+  name: 'tenuto'
+}
+
+item {
+  id: 98
+  name: 'thick_barline'
+}
+
+item {
+  id: 99
+  name: 'thin_barline'
+}
+
+item {
+  id: 100
+  name: 'tie'
+}
+
+item {
+  id: 101
+  name: 'time_signature'
+}
+
+item {
+  id: 102
+  name: 'transposition_text'
+}
+
+item {
+  id: 103
+  name: 'trill'
+}
+
+item {
+  id: 104
+  name: 'trill_wobble'
+}
+
+item {
+  id: 105
+  name: 'tuple'
+}
+
+item {
+  id: 106
+  name: 'tuple_bracketline'
+}
+
+item {
+  id: 107
+  name: 'unclassified'
+}
+
+item {
+  id: 108
+  name: 'volta'
+}
+
+item {
+  id: 109
+  name: 'whole-time_mark'
+}
+
+item {
+  id: 110
+  name: 'whole_rest'
+}
+
