@@ -5,7 +5,7 @@ item {
 
 item {
   id: 2
-  name: '16th_rest'
+  name: 'rest16th'
 }
 
 item {
@@ -15,7 +15,7 @@ item {
 
 item {
   id: 4
-  name: '8th_rest'
+  name: 'rest8th'
 }
 
 item {
@@ -40,7 +40,7 @@ item {
 
 item {
   id: 9
-  name: 'c-clef'
+  name: 'cClef'
 }
 
 item {
@@ -55,12 +55,12 @@ item {
 
 item {
   id: 12
-  name: 'double_sharp'
+  name: 'accidentalDoubleSharp'
 }
 
 item {
   id: 13
-  name: 'duration-dot'
+  name: 'augmentationDot'
 }
 
 item {
@@ -70,7 +70,7 @@ item {
 
 item {
   id: 15
-  name: 'f-clef'
+  name: 'fClef'
 }
 
 item {
@@ -80,12 +80,12 @@ item {
 
 item {
   id: 17
-  name: 'flat'
+  name: 'accidentalFlat'
 }
 
 item {
   id: 18
-  name: 'g-clef'
+  name: 'gClef'
 }
 
 item {
@@ -115,7 +115,7 @@ item {
 
 item {
   id: 24
-  name: 'half_rest'
+  name: 'restHalf'
 }
 
 item {
@@ -305,12 +305,12 @@ item {
 
 item {
   id: 62
-  name: 'measure_separator'
+  name: 'measureSeparator'
 }
 
 item {
   id: 63
-  name: 'multi-measure_rest'
+  name: 'multiMeasureRest'
 }
 
 item {
@@ -330,7 +330,7 @@ item {
 
 item {
   id: 67
-  name: 'natural'
+  name: 'accidentalNatural'
 }
 
 item {
@@ -340,7 +340,7 @@ item {
 
 item {
   id: 69
-  name: 'notehead-full'
+  name: 'noteheadFull'
 }
 
 item {
@@ -415,7 +415,7 @@ item {
 
 item {
   id: 84
-  name: 'quarter_rest'
+  name: 'restQuarter'
 }
 
 item {
@@ -435,7 +435,7 @@ item {
 
 item {
   id: 88
-  name: 'sharp'
+  name: 'accidentalSharp'
 }
 
 item {
@@ -500,7 +500,7 @@ item {
 
 item {
   id: 101
-  name: 'time_signature'
+  name: 'timeSignature'
 }
 
 item {
@@ -545,6 +545,6 @@ item {
 
 item {
   id: 110
-  name: 'whole_rest'
+  name: 'restWhole'
 }
 
