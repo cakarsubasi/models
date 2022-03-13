@@ -96,3 +96,7 @@ ENV/
 
 # For mac
 .DS_Store
+
+# Data files
+PrepareMuscima/data
+PrepareMuscima/*.zip
