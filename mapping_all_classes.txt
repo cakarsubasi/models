@@ -1,6 +1,6 @@
 item {
   id: 1
-  name: '16th_flag'
+  name: 'flag16thUp'
 }
 
 item {
@@ -10,7 +10,7 @@ item {
 
 item {
   id: 3
-  name: '8th_flag'
+  name: 'flag8thUp'
 }
 
 item {
@@ -35,7 +35,7 @@ item {
 
 item {
   id: 8
-  name: 'breath_mark'
+  name: 'legerLine'
 }
 
 item {
@@ -335,7 +335,7 @@ item {
 
 item {
   id: 68
-  name: 'notehead-empty'
+  name: 'noteheadHalf'
 }
 
 item {
@@ -455,17 +455,17 @@ item {
 
 item {
   id: 92
-  name: 'staff_grouping'
+  name: 'staffGrouping'
 }
 
 item {
   id: 93
-  name: 'staff_line'
+  name: 'staffLine'
 }
 
 item {
   id: 94
-  name: 'staff_space'
+  name: 'staffSpace'
 }
 
 item {
@@ -485,12 +485,12 @@ item {
 
 item {
   id: 98
-  name: 'thick_barline'
+  name: 'barlineHeavy'
 }
 
 item {
   id: 99
-  name: 'thin_barline'
+  name: 'barline'
 }
 
 item {
