@@ -98,5 +98,5 @@ ENV/
 .DS_Store
 
 # Data files
-PrepareMuscima/data
+PrepareMuscima/data/
 PrepareMuscima/*.zip
