@@ -28,9 +28,11 @@ from official.nlp import optimization as nlp_optimization
 
 OPTIMIZERS_CLS = {
     'sgd': tf.keras.optimizers.SGD,
-    'sgd_experimental': tf.keras.optimizers.experimental.SGD,
+    #'sgd_experimental': tf.keras.optimizers.experimental.SGD,
+    'sgd_experimental': tf.keras.optimizers.SGD,
     'adam': tf.keras.optimizers.Adam,
-    'adam_experimental': tf.keras.optimizers.experimental.Adam,
+    #'adam_experimental': tf.keras.optimizers.experimental.Adam,
+    'adam_experimental': tf.keras.optimizers.Adam,
     'adamw': nlp_optimization.AdamWeightDecay,
     'lamb': tfa_optimizers.LAMB,
     'rmsprop': tf.keras.optimizers.RMSprop,
