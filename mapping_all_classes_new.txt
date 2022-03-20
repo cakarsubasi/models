@@ -1,0 +1,231 @@
+# PRIMITIVES
+
+item {
+  id: 1
+  name: 'noteheadFull'
+}
+
+item {
+  id: 2
+  name: 'noteheadHalf'
+}
+
+item {
+  id: 3
+  name: 'noteheadWhole'
+}
+
+item {
+  id: 4
+  name: 'stem'
+}
+
+item {
+  id: 5
+  name: 'beam'
+}
+
+item {
+  id: 6
+  name: 'flag8thUp'
+}
+
+item {
+  id: 7
+  name: 'flag8thDown'
+}
+
+item {
+  id: 8
+  name: 'flag16thUp'
+}
+
+item {
+  id: 9
+  name: 'flag16thDown'
+}
+
+item {
+  id: 10
+  name: 'flag32ndUp'
+}
+
+item {
+  id: 11
+  name: 'flag32ndDown'
+}
+
+item {
+  id: 12
+  name: 'flag64thUp'
+}
+
+item {
+  id: 13
+  name: 'flag64thDown'
+}
+
+item {
+  id: 14
+  name: 'augmentationDot'
+}
+
+item {
+  id: 15
+  name: 'accidentalSharp'
+}
+
+item {
+  id: 16
+  name: 'accidentalFlat'
+}
+
+item {
+  id: 17
+  name: 'accidentalNatural'
+}
+
+item {
+  id: 18
+  name: 'accidentalDoubleSharp'
+}
+
+item {
+  id: 19
+  name: 'accidentalDoubleFlat'
+}
+
+item {
+  id: 20
+  name: 'restWhole'
+}
+
+item {
+  id: 21
+  name: 'restHalf'
+}
+
+item {
+  id: 22
+  name: 'restQuarter'
+}
+
+item {
+  id: 23
+  name: 'rest8th'
+}
+
+item {
+  id: 24
+  name: 'rest16th'
+}
+
+item {
+  id: 25
+  name: 'multiMeasureRest'
+}
+
+item {
+  id: 26
+  name: 'repeat1Bar'
+}
+
+item {
+  id: 27
+  name: 'legerLine'
+}
+
+item {
+  id: 28
+  name: 'staffSpace'
+}
+
+item {
+  id: 29
+  name: 'staffLine'
+}
+
+item {
+  id: 30
+  name: 'staff'
+}
+
+item {
+  id: 31
+  name: 'bracket'
+}
+
+item {
+  id: 32
+  name: 'brace'
+}
+
+item {
+  id: 33
+  name: 'staffGrouping'
+}
+
+item {
+  id: 34
+  name: 'barline'
+}
+
+item {
+  id: 35
+  name: 'barlineHeavy'
+}
+
+item {
+  id: 36
+  name: 'measureSeparator'
+}
+
+item {
+  id: 37
+  name: 'repeat'
+}
+
+item {
+  id: 38
+  name: 'repeatDot'
+}
+
+item {
+  id: 39
+  name: 'tuple'
+}
+
+item {
+  id: 40
+  name: 'gClef'
+}
+
+item {
+  id: 41
+  name: 'fClef'
+}
+
+item {
+  id: 42
+  name: 'cClef'
+}
+
+item {
+  id: 43
+  name: 'keySignature'
+}
+
+item {
+  id: 44
+  name: 'timeSignature'
+}
+
+item {
+  id: 45
+  name: 'timeSigCommon'
+}
+
+item {
+  id: 46
+  name: 'unclassified'
+}

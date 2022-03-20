@@ -100,3 +100,14 @@ ENV/
 # Data files
 PrepareMuscima/data/
 PrepareMuscima/*.zip
+Pretrained/
+export/
+models/
+
+#Downloads
+*.tar
+*.tar.gz
+*.tgz
+
+#TFlite
+*.tflite
